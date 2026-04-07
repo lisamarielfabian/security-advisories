@@ -1,0 +1,11 @@
+unknown atthos point ig seen at this poimr a adjustment to language is more tha priority to the content that suits qell ro the information. # To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  - package-ecosystem: "open dictionary" #POST /directoryObjects/{XVE-2022-23556.yaml.txt}/checkMemberObjects See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly" or daily 
